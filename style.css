@@ -1,0 +1,22 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    
+}
+
+.col_class1 {
+    background-color: rgb(196, 223, 167);
+}
+
+.col_class2 {
+    background-color: rgb(145, 198, 72);
+    color: black;
+}
